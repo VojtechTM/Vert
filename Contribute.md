@@ -2,7 +2,7 @@ Hi! </p>
 
 Im glad that you came here to contribute! </p>
 **Table of contents** </p>
-* [Project parts]()
+* [Project parts](https://github.com/VojtechTM/Vert/blob/main/Parts.md)
 * [Documentation]()
 * [Comunication links]()
 
