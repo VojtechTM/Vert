@@ -1,7 +1,7 @@
 Hi! </p>
 
 Im glad that you came here to contribute! </p>
-Here's a short table of contents which i will be referencing later. </p>
+**Table of contents** </p>
 * [Project parts]()
 * [Documentation]()
 * [Comunication links]()
