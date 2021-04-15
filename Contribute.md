@@ -2,7 +2,7 @@ Hi! </p>
 
 :tada: First off, thank you for considering contributing to Vert :tada:
 
-Vert is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from submitting bug reports and feature requests or writing code which can be incorporated into Vert itself.
+Vert is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from submitting bug reports and feature requests or writing code which can be incorporated into Vert itself, or just writing the documentation.
 
 All members of our community are expected to follow our Code of Conduct. Please make sure you are welcoming and friendly in all of our spaces.
 
