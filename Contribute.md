@@ -9,6 +9,6 @@ All members of our community are expected to follow our Code of Conduct. Please 
 
 **Table of contents** </p>
 * [Project parts](https://github.com/VojtechTM/Vert/blob/main/Parts.md)
-* [Documentation]()
+* [Documentation](https://github.com/VojtechTM/Vert/wiki)
 * [Discord](https://discord.com/invite/gxKznjwvZ2)
 
