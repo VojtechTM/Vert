@@ -12,4 +12,4 @@ All members of our community are expected to follow our Code of Conduct. Please 
 * [Documentation](https://github.com/VojtechTM/Vert/wiki)
 * [Discord](https://discord.com/invite/gxKznjwvZ2)
 
-If youre a begginer and dont know what to do you can check out this [link!] (https://github.com/firstcontributions/first-contributions)
+If youre a begginer and dont know what to do you can check out this [link!](https://github.com/firstcontributions/first-contributions)
